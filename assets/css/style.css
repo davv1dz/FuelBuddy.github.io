@@ -183,9 +183,9 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
+  
 }
-
 .scrolled-offset {
   margin-top: 70px;
 }
@@ -721,18 +721,6 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
-}
-
-.about .img-fluid-1 {
-  max-width: 100%;
-  height: auto;
-  margin-left: 200px;
-}
-
-.about .img-fluid-3 {
-  max-width: 100%;
-  height: auto;
-  margin-left: 200px;
 }
 
 
